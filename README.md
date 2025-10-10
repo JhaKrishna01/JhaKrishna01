@@ -46,7 +46,6 @@
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=<JhaKrishna01>&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<JhaKrishna01>&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=<JhaKrishna01>&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=<JhaKrishna01>&theme=tokyonight&margin-w=15)
 
 ---
 
