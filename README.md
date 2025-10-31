@@ -38,7 +38,8 @@
   React-based interactive platform with gamification and community features.  
 - 🧭 **AI for Skill Development**  
   Personalized learning platform integrating NLP and AI-driven progress tracking.
-
+-🏥 **SymptomCheck - AI-Powered Healthcare Symptom Checker**
+  Educational symptom analysis tool
 ---
 
 ## 📊 GitHub Stats
