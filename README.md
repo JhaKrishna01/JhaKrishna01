@@ -51,12 +51,12 @@ An educational ML-based healthcare symptom analysis tool.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhaKrishna01&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhaKrishna01&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhaKrishna01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhaKrishna01&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JhaKrishna01&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=JhaKrishna01&theme=tokyonight" />
 </p>
 
 ---
