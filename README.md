@@ -22,7 +22,7 @@
 **Languages:** Python, JavaScript, C++  
 **Frontend:** React.js, Tailwind CSS, HTML, CSS, Framer Motion  
 **Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL , MongoDB 
+**Databases:** MongoDB, MySQL , MongoDB ,
 **AI / ML:** TensorFlow, Keras, Scikit-Learn, OpenCV, MediaPipe  
 **Dev Tools:** Git, GitHub, VS Code, Docker, Colab, Jupyter  
 
