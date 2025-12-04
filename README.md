@@ -1,165 +1,91 @@
-👋 Hi, I'm Krishna Jha
+<h1 align="center">👋 Hi, I'm Krishna Jha</h1>
 
-🎓 B.Tech Student at VIT-AP University
-💻 AI & Full-Stack Web Developer | Deep Learning Researcher
-🚀 Exploring the intersection of AI, Web, and Intelligent Systems
+<h3 align="center">
+B.Tech CSE (AIML) @ VIT-AP University  
+<br>AI & Full-Stack Developer | Deep Learning Researcher  
+<br>Building Intelligent Systems for Real-World Impact
+</h3>
 
-🧠 About Me
+---
 
-🌱 Currently learning AI, ML, and Full-Stack Web Development
+## 🌟 About Me
 
-🤖 Passionate about LLMs, Computer Vision, and Edge AI
+- AI/ML and Full-Stack Web Development enthusiast  
+- Passionate about **LLMs, Computer Vision, Edge AI & Intelligent Systems**  
+- Experienced with **React, Node.js, Python, TensorFlow, OpenCV**  
+- Full-Stack Developer Intern at **Prayana (Electric Bike Startup)**  
+- Goal: Build scalable **AI-native systems** that merge intelligence with usability  
 
-⚙️ Experienced with React.js, Node.js, TensorFlow, and Python
+---
 
-💡 Built projects in AI for Education, Disaster Detection, and Smart Assistants
+## 🚀 Tech Stack
 
-🧩 Internship: Full-Stack Developer at Prayana (Electric Bike Startup)
+**Languages:** Python, JavaScript, C++  
+**Frontend:** React.js, Tailwind CSS, HTML, CSS, Framer Motion  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL  
+**AI/ML:** TensorFlow, Keras, Scikit-Learn, OpenCV, MediaPipe  
+**Tools:** Git, GitHub, VS Code, Docker, Jupyter, Colab  
 
-🎯 Goal: Build scalable AI-native systems that combine intelligence with usability
+---
 
-🛠️ Tech Stack
+## 🔥 Featured Projects
 
-Languages: Python, JavaScript, C++
-Frontend: React.js, Tailwind CSS, HTML, CSS, Framer Motion
-Backend: Node.js, Express.js, REST APIs
-Databases: MongoDB, MySQL
-AI / ML: TensorFlow, Keras, Scikit-Learn, OpenCV, MediaPipe
-Dev Tools: Git, GitHub, VS Code, Docker, Colab, Jupyter
+### 🛰️ Post-Hurricane Danger Detection  
+CNN-based hazard detection and classification using satellite imagery.
 
-🚀 Featured Projects
+### 🗣️ SAM – Speech-Activated Machine  
+Voice-based intelligent assistant using **Segment Anything Model** + NLP.
 
-🛰️ Post-Hurricane Danger Detection Using Satellite Imagery
-CNN-based system for post-disaster hazard detection and classification.
+### 🎮 Retro Gaming Hub  
+Gamified and interactive retro gaming platform built with React.
 
-🗣️ SAM – Speech-Activated Machine
-Voice-based assistant using the Segment Anything Model for smart, hands-free interaction.
+### 🧭 AI for Skill Development  
+Personalized learning platform powered by NLP + analytics.
 
-🎮 Retro Gaming Hub
-React-based interactive gaming platform enhanced with gamification and community features.
+### 🏥 SymptomCheck  
+An educational ML-based healthcare symptom analysis tool.
 
-🧭 AI for Skill Development
-Personalized learning platform with NLP-based guidance and progress tracking.
+---
 
-🏥 SymptomCheck – AI-Powered Healthcare Symptom Checker
-An educational tool for analyzing symptoms using ML.
+## 📊 GitHub Stats
 
-📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhaKrishna01&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhaKrishna01&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-Replace <JhaKrishna01> with your actual username (without brackets).
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JhaKrishna01&theme=tokyonight" height="160"/>
+</p>
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhaKrishna01&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhaKrishna01&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=JhaKrishna01&theme=tokyonight)
+---
 
-🌐 Connect with Me
+## 🌐 Connect with Me
 
+<p>
+  <a href="https://www.linkedin.com/in/krishna-nand-jha/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jha.krishna1357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://jhakrishna01.github.io/krishna-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+  </a>
+</p>
 
+---
 
+## 🏆 Achievements
 
+- Finalist – **OSC Hackathon 2025**  
+- Participant – **EY Techathon 5.0**, **SIH 2024 & 2025**  
+- Certifications – Oracle GenAI, ISRO START 2025, UiPath RPA  
+- Advisor – **IIEC (Innovation, Incubation & Entrepreneurship Cell)**  
+- Sergeant-at-Arms – **Rotaract Club, VIT-AP**  
+- National-Level Inter-College Football Player  
 
+---
 
-🏆 Achievements & Activities
-
-Finalist – OSC Hackathon 2025 (AI Accessibility Solution)
-
-Participant – EY Techathon 5.0, SIH 2024 & 2025
-
-Certifications – Oracle GenAI, ISRO START 2025, UiPath RPA
-
-Advisor – Innovation, Incubation & Entrepreneurship Cell (IIEC), VIT-AP
-
-Member – Machine Learning Club
-
-Sergeant-at-Arms – Rotaract Club, VIT-AP
-
-Represented VIT-AP in a National-Level Inter-College Football Tournament
-
-⭐ “Building AI systems that think, learn, and assist humans efficiently.”
-
-If you want, I can format this as a perfect GitHub README, portfolio About section, or LinkedIn About summary.
-
-You said:
-GIVE ME DIRECT CODE TO PASTE TO GITHUB 
-
-I DIRECT CHANGE ON GITHUB REPO FILE WHICH IS MY README SECTION 
-ChatGPT said:
-
-Here is the direct, clean, ready-to-paste Markdown code for your GitHub README.md.
-You can copy–paste this as is into your repository.
-
-👋 Hi, I'm Krishna Jha
-
-🎓 B.Tech Student at VIT-AP University
-💻 AI & Full-Stack Web Developer | Deep Learning Researcher
-🚀 Exploring the intersection of AI, Web, and Intelligent Systems
-
-🧠 About Me
-
-🌱 Currently learning AI, ML, and Full-Stack Web Development
-
-🤖 Passionate about LLMs, Computer Vision, and Edge AI
-
-⚙️ Experienced with React.js, Node.js, TensorFlow, and Python
-
-💡 Built projects in AI for Education, Disaster Detection, and Smart Assistants
-
-🧩 Internship: Full-Stack Developer at Prayana (Electric Bike Startup)
-
-🎯 Goal: Build scalable AI-native systems that combine intelligence with usability
-
-🛠️ Tech Stack
-
-Languages: Python, JavaScript, C++
-Frontend: React.js, Tailwind CSS, HTML, CSS, Framer Motion
-Backend: Node.js, Express.js, REST APIs
-Databases: MongoDB, MySQL
-AI / ML: TensorFlow, Keras, Scikit-Learn, OpenCV, MediaPipe
-Dev Tools: Git, GitHub, VS Code, Docker, Colab, Jupyter
-
-🚀 Featured Projects
-
-🛰️ Post-Hurricane Danger Detection Using Satellite Imagery
-CNN-based system for post-disaster hazard detection and classification.
-
-🗣️ SAM – Speech-Activated Machine
-Voice-based assistant using the Segment Anything Model for smart, hands-free interaction.
-
-🎮 Retro Gaming Hub
-React-based interactive gaming platform enhanced with gamification and community features.
-
-🧭 AI for Skill Development
-Personalized learning platform with NLP-based guidance and progress tracking.
-
-🏥 SymptomCheck – AI-Powered Healthcare Symptom Checker
-An educational tool for analyzing symptoms using ML.
-
-📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhaKrishna01&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhaKrishna01&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=JhaKrishna01&theme=tokyonight)
-
-🌐 Connect with Me
-
-
-
-
-
-
-🏆 Achievements & Activities
-
-Finalist – OSC Hackathon 2025 (AI Accessibility Solution)
-
-Participant – EY Techathon 5.0, SIH 2024 & 2025
-
-Certifications – Oracle GenAI, ISRO START 2025, UiPath RPA
-
-Advisor – Innovation, Incubation & Entrepreneurship Cell (IIEC), VIT-AP
-
-Member – Machine Learning Club
-
-Sergeant-at-Arms – Rotaract Club, VIT-AP
-
-Represented VIT-AP in a National-Level Inter-College Football Tournament
-
-⭐ “Building AI systems that think, learn, and assist humans efficiently.”
+<h3 align="center">⭐ “Building AI systems that think, learn, and assist humans efficiently.” ⭐</h3>
