@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anish+Dewat!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Jha!;" />
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | ML Engineer | CSE @ VIT 🎓</h3>
+<h3 align="center">🚀 Full-Stack Developer | ML Engineer | CSE-AI/ML @ VIT 🎓</h3>
 
 <div align="center">
   <a href="mailto:jha.krishna1357@gmail.com">
@@ -38,7 +38,7 @@
 ```javascript
 const krishna = {
     location: "Delhi, India",
-    education: "CSE @ VIT (2022-2026)",
+    education: "CSE-AI/ML @ VIT (2022-2026)",
     currentFocus: ["Machine Learning", "NLP", "Data Science"],
     workingOn: "Building intelligent systems that solve real-world problems",
     hobbies: ["Foosball 🏆", "Gaming (GTA V, RDR2)", "Badminton", "Puzzle Solving"],
@@ -54,7 +54,7 @@ const krishna = {
 - 🤖 Building **RAG-based Chatbots** and **ML Models**
 - 📱 Creating **AUTO VALIDATION MODEL** with **25% REDUCE IN MANUAL LABOUR**
 - 💡 Researching **AUTO-DATA COLLECTION FOR FIRM**
-- 🎓 **ADVISORY ** at IIEC-VIT
+- 🎓 **ADVISORY** at IIEC-VIT
 - 🚀 Open to **Internships** and **Full-time Opportunities**
 
 ---
@@ -117,7 +117,7 @@ const krishna = {
   
 | 🎯 **Achievement** | 📊 **Stats** | 🏆 **Platform** |
 |:------------------:|:------------:|:---------------:|
-| **Coding Challenges** | `300+` Solved | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white) |
+| **Coding Challenges** | `500+` Solved | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white) |
 | **Sports Champion** | `🥇 Winner` | ![Foosball](https://img.shields.io/badge/Foosball-Champion-gold?style=flat&logo=trophy&logoColor=white) |
 | **Algorithmic Skills** | `Advanced` | ![DSA](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat&logo=code&logoColor=white) |
 
@@ -136,8 +136,9 @@ Teaching: "ADVISORY @ IIEC-VIT (1+ year)"
 
 Key Achievements:
   
-  - 20% increase in student engagement through curriculum design
-  - Led development of complete tech ecosystems & Start-up/entrepreneur
+  - Developed responsive front-end interfaces using React.js, improving user engagement by 25%
+  - Built an AI-powered sapling species identification system using Google Gemini’s vision capabilities and prompt engineering,
+    eliminating manual image processing and reducing labor effort by 50%
   - Mentored 10+ students in full-Stack & AI/ML
 ```
 
