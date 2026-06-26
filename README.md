@@ -60,34 +60,60 @@ const krishna = {
 ---
 
 ## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
 ---
+
+<h2 align="center">🛠 Languages & Tools</h2>
+<table>
+  <tr>
+    <td><strong>Frontend & Design</strong></td>
+    <td><strong>DevOps</strong></td>
+    <td><strong>Editors</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,aws&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,rider&theme=dark">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Databases</strong></td>
+    <td><strong>Systems</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,js">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,windows">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><strong>electronics</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask,django,fastapi,express,springboot&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark">
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<hr>
+
 
 
 ## 📊 GitHub Analytics
